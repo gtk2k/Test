@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="MyToolbar">
+</Property><Property Name="ソリューション ファイル" Value="C:\Documents and Settings\gtk2k\My Documents\MyToolbar\MyToolbar\source\MyToolbar.sln">
+</Property><Property Name="Date" Value="2010年7月6日">
+</Property><Property Name="Time" Value="22:20">
+</Property></Properties><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\BandObjectLib.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="BandObjectLib" Source="BandObjectLib\BandObjectLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="SearchBar" Source="SearchBar\SearchBar.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="SearchBar" Source="SearchBar\SearchBar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="MyToolbar.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="MyToolbar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\BandObjectLib.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="SearchBar" Source="SearchBar\SearchBar.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>

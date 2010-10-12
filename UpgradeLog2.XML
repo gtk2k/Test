@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="LibrontToolbar">
+</Property><Property Name="ソリューション ファイル" Value="C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\LibrontToolbar.sln">
+</Property><Property Name="ユーザー オプション ファイル" Value="C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\LibrontToolbar.suo">
+</Property><Property Name="Date" Value="2010年10月11日">
+</Property><Property Name="Time" Value="17:46">
+</Property><Property Name="ログ番号" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="LibrontToolbar.sln" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\LibrontToolbar.sln としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="" Source="LibrontToolbar.suo" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\LibrontToolbar.suo としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\BandObjectLib.csproj" Description="プロジェクト ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\BandObjectLib\BandObjectLib.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\BandObjectLib.csproj.user" Description="プロジェクト ユーザー ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\BandObjectLib\BandObjectLib.csproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\Attributes.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\BandObjectLib\Attributes.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\BandObject.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\BandObjectLib\BandObject.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\ComInterop.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\BandObjectLib\ComInterop.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\FlagsEnumComverter.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\BandObjectLib\FlagsEnumComverter.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\BandObjects.snk" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\BandObjectLib\BandObjects.snk としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\BandObject.resx" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\BandObjectLib\BandObject.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\BandObjectLib.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="BandObjectLib" Source="BandObjectLib\BandObjectLib.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\LibronToolbar.csproj" Description="プロジェクト ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\LibronToolbar.csproj としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\LibronToolbar.csproj.user" Description="プロジェクト ユーザー ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\LibronToolbar.csproj.user としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\AssemblyInfo.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\AssemblyInfo.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\EnableVS.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\EnableVS.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\frmErrorLog.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\frmErrorLog.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\frmErrorLog.Designer.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\frmErrorLog.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\JSON.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\JSON.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\LibronClass.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\LibronClass.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\Properties\Settings.Designer.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\Properties\Settings.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\Toolbar.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\Toolbar.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\InitToolbarBHO.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\InitToolbarBHO.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\Properties\Resources.Designer.cs" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\Properties\Resources.Designer.cs としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\App.config" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\App.config としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\BandObjects.snk" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\BandObjects.snk としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\Properties\Settings.settings" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\Properties\Settings.settings としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\frmErrorLog.resx" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\frmErrorLog.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\Toolbar.resx" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\Toolbar.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\Properties\Resources.resx" Description="ファイルは正常に C:\Documents and Settings\gtk2k\My Documents\LibronToolbar\Backup\SearchBar\Properties\Resources.resx としてバックアップされました。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\LibronToolbar.csproj" Description="プロジェクトは正常に変換されました。">
+</Event><Event ErrorLevel="3" Project="LibronToolbar" Source="SearchBar\LibronToolbar.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="LibrontToolbar.sln" Description="ソリューションは正常に変換されました">
+</Event><Event ErrorLevel="3" Project="" Source="LibrontToolbar.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BandObjectLib" Source="BandObjectLib\BandObjectLib.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event><Event ErrorLevel="0" Project="LibronToolbar" Source="SearchBar\LibronToolbar.csproj" Description="スキャンが完了しました: プロジェクト ファイルにアップグレードは必要ありません。">
+</Event></UpgradeLog>
